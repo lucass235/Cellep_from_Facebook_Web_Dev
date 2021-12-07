@@ -1,2 +1,2 @@
-# HTML_CSS_JavaScript
- repositório de estudos sobre as linguagens de programação front-end
+# Curso Web Dev
+ repositório do curso de programação front-end da Cellep promovida pelo facebook
