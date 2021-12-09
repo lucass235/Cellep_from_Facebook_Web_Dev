@@ -1,11 +1,11 @@
-div.gallery{
+div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 108px;
 }
 
-div.gallery:hover{
+div.gallery:hover {
   border: 1px solid #777;
 }
 
@@ -14,6 +14,6 @@ div.gallery img {
   height: auto;
 }
 
-div.desc{
+div.desc {
   padding: 15px;
 }
