@@ -104,8 +104,21 @@ if(imc < 18.5){
 }
 
 //15
-// for (let i = 5; i <= 50; i+=5) {
-//     console.log(i);
-// }
+for (let i = 5; i <= 50; i+=5) {
+    console.log(i);
+}
 
 //16
+var string = "lucas";
+var totalVogais = 0;
+for (let i = 0; i < string.length; i++) {
+    if (string[i] == "a" || string[i] == "e" || string[i] == "i" || string[i] == "o" || string[i] == "u") {
+        totalVogais++;
+    }
+        
+    }
+    if(totalVogais == 0){
+        console.log("Nenhuma vogal foi digitada");
+    } else{
+        console.log("O total de vogais é "+totalVogais);
+    }
