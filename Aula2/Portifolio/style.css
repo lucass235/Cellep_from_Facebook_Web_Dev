@@ -1,0 +1,54 @@
+*{
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to left, white, blueviolet);
+}
+
+section{
+  text-align: center;
+}
+
+#caixa {
+  text-align: justify- left;
+  height: 200px;
+  padding-left: 30px;
+  padding-right: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  border: solid 1px blueviolet;
+  background: white;
+
+  box-shadow: 10px 10px 10px blueviolet
+}
+
+#avatar{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 200px;
+  border-radius: 50%;
+  border: solid 1px ;
+  box-shadow: 10px 10px 10px ;
+}
+
+#titulo{
+  text-shadow: 3px 3px 3px gb(red, green, rgb(189, 226, 172));
+  color: white;
+  fon-size: 40px;
+
+}
+
+footer {
+  color: white;
+  text-shadow: 3px 3px 3px rgb(red, green, rgb(189, 226, 172))
+}
+
+.contato{
+  font-size: 45px;
+  font-weight: bolder;
+}

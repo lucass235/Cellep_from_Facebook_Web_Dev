@@ -1,0 +1,19 @@
+body {
+  background: rgb(162, 214, 214);
+  
+}
+h1{
+  background: red;
+  color:white;
+}
+p{
+  background: pink;
+}
+#teste2{
+  background: blue;
+  color: white;
+}
+.sub{
+  color: white !important;
+  font-size: 30px;
+}
