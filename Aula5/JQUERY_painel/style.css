@@ -1,0 +1,26 @@
+#panel,
+#flip {
+  padding: 5px;
+  text-align: center;
+  background: orangered;
+  border: solid 1px white;
+  color: white;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
+img{
+    width: 200px;
+    height: 200px;  
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}

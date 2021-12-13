@@ -1,0 +1,23 @@
+div{
+     background: red; 
+    height: 100px; /* Altura */
+    width: 100px; /*largura*/
+    position: absolute; /* Posição absoluta */
+    border-radius: 50px;  /*50% de circunferencia*/
+     background-image: url(https://i.pinimg.com/originals/f8/f2/8a/f8f28abd64a6189bdac222c9c9da28eb.png); 
+    background-size: 100px 100px;
+}
+
+body{
+    background: black;
+}
+
+#div1{
+    /* background: red; */
+    height: 100px; /* Altura */
+    width: 100px; /*largura*/
+    position: absolute; /* Posição absoluta */
+    border-radius: 50px;  /*50% de circunferencia*/
+    background-image: url(boll.jpeg);
+    background-size: 100px 100px;
+}

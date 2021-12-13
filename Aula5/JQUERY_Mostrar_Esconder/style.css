@@ -1,0 +1,21 @@
+#hide {
+  background: fuchsia;
+  color: white;
+  font-size: 30px;
+}
+
+#show {
+  background: blue;
+  color: white;
+  font-size: 30px;
+}
+
+body {
+  background: black;
+  color: white;
+  font-size: 30px;
+}
+
+img{
+    width: 25%;
+}
