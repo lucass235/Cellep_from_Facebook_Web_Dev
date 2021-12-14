@@ -1,0 +1,12 @@
+#jumbo {
+    background: #da4167 !important;
+}
+
+#fundo {
+    background-image: url(https://www.gov.br/cvm/pt-br/arquivos/capa-noticia-fundo-azul-logo-cvm/@@images/image);
+    height: 300px;
+    background-repeat: no-repeat;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
