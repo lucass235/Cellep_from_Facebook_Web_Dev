@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - GitHub: [Lucass235](https://github.com/lucass235)
 
 ##
-Projeto desenvolvido no curso de front-end da Cellep, proovido pela Facebook.
+Projeto desenvolvido no curso de front-end da Cellep, promovido pela Facebook.
