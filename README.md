@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Instale VsCode (de preferência)
 - Clone o repositório
 - Abra o projeto no VsCode
-- Entre no `Exercicios_Scinote_do_Scilab/ Exercicios /`
+- Entre no `lucass235/Cellep_from_Facebook_Web_Dev /`
 - Clique no Play para executar
 
 ## 👨‍👦‍👦 COLABORADORES
