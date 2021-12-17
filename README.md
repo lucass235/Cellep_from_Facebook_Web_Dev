@@ -21,9 +21,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-- Instale Scilab
+- Instale VsCode (de preferência)
 - Clone o repositório
-- Abra o projeto no Scilab
+- Abra o projeto no VsCode
 - Entre no `Exercicios_Scinote_do_Scilab/ Exercicios /`
 - Clique no Play para executar
 
