@@ -1,7 +1,7 @@
 
 <h1 align="center">Curso Web Dev</h1>
 
-<h3 align="center">Codigos feitos em aulas e exercícios </h3>
+<h3 align="center">Códigos feitos em aulas e exercícios </h3>
 
 <br>
 
