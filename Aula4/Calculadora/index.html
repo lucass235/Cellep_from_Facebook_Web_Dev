@@ -9,9 +9,9 @@
     <main>
       <h2>CALCULADORA</h2>
 
-      <input id="num1" type="text" placeholder="Digite um número" autocomplete="off">
+      <input id="num1" type="text" placeholder="Digite um número" autocomplete="off"><!--Entrada do 1 valor-->
 
-      <select id="operacao">
+      <select id="operacao"> <!--Selecao da operacao-->
         <option value="">Selecione</option>
         <option value="1">Soma</option>
         <option value="2">Subtração</option>
@@ -19,11 +19,11 @@
         <option value="4">Divisão</option>
       </select>
 
-      <input id="num2" type="text" placeholder="Digite um número" autocomplete="off">
+      <input id="num2" type="text" placeholder="Digite um número" autocomplete="off"> <!--Entrada do 2 valor-->
 
-      <input onclick="calcular()" type="button" value="Calcular">
+      <input onclick="calcular()" type="button" value="Calcular"><!--Chamada da funcao calcular no javaScript-->
 
-      Resultado: <input id="resultado" type="text" readonly>
+      Resultado: <input id="resultado" type="text" readonly> <!--Resultado da funcao calcular do javaScript-->
 
     </main>
     <script src="script.js"></script>

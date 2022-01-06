@@ -1,37 +1,36 @@
-main{
-    width: 75%;
-    margin: 20px auto;
-    padding: 20px;
-    /* border: 2px solid black; */
-    background-color: blueviolet;
-    color:white;
-    max-width: 300px;
-    box-shadow: 10px 10px 10px rgb(18, 2, 34);
+main{ 
+    width: 75%; /* Tamanho da tela */
+    margin: 20px auto; /* centraliza o elemento */
+    padding: 20px; /* espaçamento interno */
+    background-color: blueviolet; /* cor de fundo */
+    color:white; /* cor do texto */
+    max-width: 300px;  /* Tamanho máximo da tela */
+    box-shadow: 10px 10px 10px rgb(18, 2, 34); /* sombra */
   
   }
   
-  main h2{
+  main h2{ /* Título da página */
     text-align: center;
   }
   
-  input[type=text], select{
-    width: 100%;
-    padding: 12px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
+  input[type=text], select{ /* input de texto */
+    width: 100%; /* Tamanho da tela */
+    padding: 12px; /* espaçamento interno */
+    margin: 8px 0; /* espaçamento interno */
+    display: inline-block; /* exibe o elemento */
+    border: 1px solid #ccc; /* borda */
+    border-radius: 10px; /* arredondamento */
+    box-sizing: border-box; /* tipo de caixa */
   }
   
-  input[type=button]{
-    width: 100%;
-    font-size: 1.2em;
-    background: rgb(221, 9, 157);
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+  input[type=button]{ /* Botão */
+    width: 100%; /* Tamanho da tela */
+    font-size: 1.2em; /* Tamanho do texto */
+    background: rgb(221, 9, 157); /* cor de fundo */
+    color: white; /* cor do texto */
+    padding: 14px 20px; /* espaçamento interno */
+    margin: 8px 0; /* espaçamento interno */
+    border: none; /* borda */
+    border-radius: 4px; /* arredondamento */
+    cursor: pointer; /* cursor */
   }
